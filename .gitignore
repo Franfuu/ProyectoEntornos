@@ -34,5 +34,10 @@ build/
 ### VS Code ###
 .vscode/
 
+# Maven target folder
+target/
+# IntelliJ folder
+.idea/
+
 ### Mac OS ###
 .DS_Store
