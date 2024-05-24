@@ -15,7 +15,7 @@ public class DistanciaManhattan extends Distancia {
         public static void main(String[] args) {
             double origen_x = 0;
             double origen_y = 0;
-            double destino_x = 3;
+            double destino_x = 10;
             double destino_y = 4;
 
             DistanciaManhattan distanciaManhattan = new DistanciaManhattan(origen_x, origen_y, destino_x, destino_y);

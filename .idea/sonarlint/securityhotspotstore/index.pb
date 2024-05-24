@@ -17,3 +17,8 @@ X
 (src/test/java/TransportistaSeulTest.java,c\2\c2d8f9b7dd643ba4e5ae41f00f5747fcc14f2f28
 X
 (src/main/java/TransportistaCarteros.java,9\a\9a8711ecdeca33255d0ff5da749109cd1cd66534
+U
+%src/main/java/DistanciaManhattan.java,6\4\645e40b6ed994db73f737606ed5f3f978aac6f1c
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
