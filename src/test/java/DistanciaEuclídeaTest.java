@@ -6,7 +6,7 @@ class DistanciaEuclideaTest {
 
     @Test
     public void testMedir() {
-        DistanciaEuclídea distanciaEuclidea = new DistanciaEuclídea();
+        DistanciaEuclidea distanciaEuclidea = new DistanciaEuclidea();
         Punto punto1 = new Punto(0, 0);
         Punto punto2 = new Punto(0, 0);
         double expected = 0.0;
