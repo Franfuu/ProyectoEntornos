@@ -1,10 +1,10 @@
 
-0
-java:S1220""Move this file to a named package.
-N
-java:S5993"9Change the visibility of this constructor to "protected".(ß¨Ù
-O
-java:S5993"9Change the visibility of this constructor to "protected".(§¥ğ¢
 V
+java:S1220""Move this file to a named package.J$d55d86e4-7348-4b71-bc49-cbc955cba0d3
+t
+java:S5993"9Change the visibility of this constructor to "protected".(ß¨ÙJ$3302149d-f155-43a4-ad64-16dda23295db
+u
+java:S5993"9Change the visibility of this constructor to "protected".(§¥ğ¢J$6482ee1b-2f82-400a-84d3-b6ad885b7ac8
+|
 java:S1172
-";Remove these unused method parameters "x", "y", "x1", "y1".(¶€¬ùÿÿÿÿ
+";Remove these unused method parameters "x", "y", "x1", "y1".(¶€¬ùÿÿÿÿJ$32308c5e-e719-4dd3-8269-2589268c9459
